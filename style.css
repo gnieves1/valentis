@@ -35,7 +35,7 @@ html{
 }
 
 body { 
-    background: url("../assets/marble.jpeg"); 
+    background: url("src/assets/marble.jpeg"); 
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
