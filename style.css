@@ -113,7 +113,7 @@ nav a:hover{
     
 }
 .bg-red-texture{
-    background: url("../assets/redbg_2.jpeg");
+    background: url("src/assets/redbg_2.jpeg");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
