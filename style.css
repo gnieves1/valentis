@@ -380,7 +380,7 @@ nav a:hover{
     }
 
 }
-@media (max-width: 840px) {
+@media (max-width: 240px) {
     .navbar-links{
         display: none;
     }
