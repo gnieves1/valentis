@@ -380,7 +380,7 @@ nav a:hover{
     }
 
 }
-@media only screen and(device-width: 390px) and(device-height: 844px) and(--webkit-device-pixel-ratio: 3){
+@media only screen and (device-width: 390px) and (device-height: 844px) and (--webkit-device-pixel-ratio: 3){
     .navbar-links{
         display: none;
     }
@@ -824,8 +824,8 @@ nav a:hover{
 
 }
 @media only screen
-        and(device-width: 390px)
-        and(device-height: 844px){
+        and (device-width: 390px)
+        and (device-height: 844px){
     .building img{
         margin: 0 auto;
         width:250px;
@@ -921,8 +921,8 @@ nav a:hover{
 
 }
 @media only screen
-        and(device-width: 390px)
-        and(device-height: 844px){
+        and (device-width: 390px)
+        and (device-height: 844px){
     .footer__padding {
         padding: 3rem 2rem;
     }
