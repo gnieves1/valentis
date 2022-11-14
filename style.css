@@ -825,7 +825,9 @@ nav a:hover{
     
 
 }
-@media only screen and (max-width: 650px){
+@media only screen
+        and(device-width: 390px)
+        and(device-height: 844px){
     .building img{
         margin: 0 auto;
         width:250px;
@@ -920,7 +922,9 @@ nav a:hover{
     
 
 }
-@media only screen and (max-width: 650px){
+@media only screen
+        and(device-width: 390px)
+        and(device-height: 844px){
     .footer__padding {
         padding: 3rem 2rem;
     }
