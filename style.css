@@ -380,7 +380,9 @@ nav a:hover{
     }
 
 }
-@media (min-width: 840px) {
+@media only screen
+        and(device-width: 390px)
+        and(device-height: 844px) {
     .navbar-links{
         display: none;
     }
